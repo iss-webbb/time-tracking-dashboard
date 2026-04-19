@@ -22,7 +22,7 @@ A React-based time tracking app that helps you track time spent on projects and 
 ## Getting Started
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/iss-webbb/time-tracking-dashboard.git
 cd time-tracker
 npm install
 npm run dev
