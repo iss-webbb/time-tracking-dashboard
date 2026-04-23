@@ -1,4 +1,3 @@
-import { Pause } from "@hugeicons/core-free-icons";
 import React from "react";
 
 const Details = ({
